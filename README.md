@@ -1,0 +1,1 @@
+# ParolaG-c-G-stergesi
