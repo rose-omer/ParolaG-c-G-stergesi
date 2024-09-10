@@ -37,5 +37,8 @@ Projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 ## Ekran Görüntüsü
 
 
-https://github.com/user-attachments/assets/8a948eaa-f1b5-4e6b-b3d8-c402162bf6f3
+
+https://github.com/user-attachments/assets/95671677-42a8-4628-9ad5-d4423ca39b27
+
+
 
