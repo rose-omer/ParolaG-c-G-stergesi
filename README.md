@@ -34,29 +34,8 @@ Projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 - `index.html`: Projenin HTML yapısını içerir.
 - `style.css`: Projenin stil ayarlarını içerir.
 - `script.js`: Şifre gücünü analiz eden ve kullanıcı arayüzünü güncelleyen JavaScript kodunu içerir.
+## Ekran Görüntüsü
 
-### `index.html`
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Parola Gücü Göstergesi</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div class="container">
-      <h2>Parola Gücü Göstergesi</h2>
-      <div class="password-container">
-        <input type="password" id="password" placeholder="Password" />
-        <button id="toggle-password">👁️</button>
-      </div>
-      <div id="password-line"></div>
-      <p id="strength-text"></p>
-    </div>
+https://github.com/user-attachments/assets/8a948eaa-f1b5-4e6b-b3d8-c402162bf6f3
 
-    <script src="script.js"></script>
-  </body>
-</html>
