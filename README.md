@@ -15,7 +15,7 @@ Projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Projeyi klonlayın veya indirin:
     ```bash
-    git clone https://github.com/kullanici-adiniz/parola-guclu-gostergesi.git
+    git clone https://github.com/rose-omer/ParolaGucuGostergesi.git
     ```
 2. Proje dizinine gidin:
     ```bash
